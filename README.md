@@ -46,4 +46,4 @@ or simply `make run`.
 | Tree evaluation | 13 operations (+18 stack operations to build) |
 | Result (both methods) | 11 |
 
-See the `docs/` folder for the full trace tables, complexity analysis, comparison table and conclusion.
+See the 'code'folder for the full trace tables, complexity analysis, comparison table and conclusion.
